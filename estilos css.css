@@ -1,0 +1,10 @@
+body {
+    background-color:darkorange;
+    background-position-x: left;
+    background-repeat: no-repeat; 
+}
+
+button {
+     background-color:rgba(41, 202, 82, 0.733);
+margin:0vmin;
+}
